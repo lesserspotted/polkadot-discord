@@ -2,7 +2,7 @@
 
 This is a list of Discord servers for the Polkadot community, it was originally posted [on the /r/dot subreddit](https://www.reddit.com/r/dot/comments/jvx4pr/a_list_of_polkadot_ecosystem_discord_servers/).
 
-**Community Discords**
+**Community discords**
 * Polkadot+ - [https://discord.gg/QhJwD8N](https://discord.gg/QhJwD8N)
 * Polkadot Marketplace - [https://discord.gg/up2NsadkAW](https://discord.gg/up2NsadkAW)
 
